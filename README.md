@@ -1,0 +1,2 @@
+# IntuneDeployments
+Provides static files
